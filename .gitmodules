@@ -1,0 +1,6 @@
+[submodule ".github/workflows/Jsn2win/@bitbucket.org"]
+	path = .github/workflows/Jsn2win/@bitbucket.org
+	url = https://Jsn2win@bitbucket.org/Jsn2win/web3.py.git
+[submodule ".github/workflows/Jsn2win/@bitbucket.org."]
+	path = .github/workflows/Jsn2win/@bitbucket.org.
+	url = https://Jsn2win@bitbucket.org/Jsn2win/web3.py.git
